@@ -64,7 +64,7 @@ SWITCH(TRUE(),
     Applicants[CreditScore] >= 550, "Fair",
     "Poor"
 )
-
+```
 ## Screenshot
 
 ![Screenshot 2025-05-10 191341](https://github.com/user-attachments/assets/18fcc1a4-51ac-4f19-884a-6fdb94edf86e)
